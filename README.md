@@ -4,6 +4,6 @@ https://infoarena.ro/problema/bfs \
 https://infoarena.ro/problema/dfs \
 https://infoarena.ro/problema/biconex (to be added) \
 https://infoarena.ro/problema/ctc \
-https://infoarena.ro/problema/sortaret \ 
+https://infoarena.ro/problema/sortaret <br />
 Havel Hakimi Theorem (to be added) \
 https://leetcode.com/problems/critical-connections-in-a-network/
