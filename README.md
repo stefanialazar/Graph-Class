@@ -1,5 +1,6 @@
 # Graph-Class
 A Graph Class which contains methods for finding the solution to the following problems:\
+
 Part I \
 https://infoarena.ro/problema/bfs \
 https://infoarena.ro/problema/dfs \
