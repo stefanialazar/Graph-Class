@@ -13,5 +13,5 @@ https://leetcode.com/problems/critical-connections-in-a-network/
 Part II \
 https://infoarena.ro/problema/dijkstra \
 https://infoarena.ro/problema/apm \
-https://infoarena.ro/problema/bellmanford (to be added) \ 
-https://infoarena.ro/problema/disjoint (to be added) \
+https://infoarena.ro/problema/bellmanford (to be added) <br />
+https://infoarena.ro/problema/disjoint (to be added) <br />
