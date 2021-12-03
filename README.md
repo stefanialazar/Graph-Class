@@ -15,3 +15,13 @@ https://infoarena.ro/problema/dijkstra \
 https://infoarena.ro/problema/apm \
 https://infoarena.ro/problema/bellmanford (to be added) <br />
 https://infoarena.ro/problema/disjoint (to be added) <br />
+
+Part III \
+https://infoarena.ro/problema/maxflow (to be added) \
+https://infoarena.ro/problema/royfloyd (to be added) \
+https://infoarena.ro/problema/darb (to be added) \
+
+Part IV \
+https://infoarena.ro/problema/ciclueuler (to be added) \
+https://infoarena.ro/problema/hamilton (to be added) \
+https://infoarena.ro/problema/cuplaj (to be added) \
