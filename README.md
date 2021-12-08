@@ -18,8 +18,8 @@ https://infoarena.ro/problema/disjoint (to be added) <br />
 
 Part III \
 https://infoarena.ro/problema/maxflow (to be added) \
-https://infoarena.ro/problema/royfloyd (to be added) \
-https://infoarena.ro/problema/darb (to be added)
+https://infoarena.ro/problema/royfloyd \
+https://infoarena.ro/problema/darb
 
 Part IV \
 https://infoarena.ro/problema/ciclueuler (to be added) \
