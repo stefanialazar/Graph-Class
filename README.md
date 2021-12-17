@@ -22,6 +22,6 @@ https://infoarena.ro/problema/royfloyd 0/100 (memory limit exceeded) \
 https://infoarena.ro/problema/darb 40/100
 
 Part IV \
-https://infoarena.ro/problema/ciclueuler (to be added) \
+https://infoarena.ro/problema/ciclueuler 30/100 \
 https://infoarena.ro/problema/hamilton (to be added) \
 https://infoarena.ro/problema/cuplaj (to be added)
