@@ -15,7 +15,7 @@ https://infoarena.ro/problema/dijkstra 0/100 (memory limit exceeded) (4/10 passe
 https://infoarena.ro/problema/apm 50/100 O(N*M + Mlog2M) \
 https://infoarena.ro/problema/bellmanford 0/100 (memory limit exceeded) (9/20 passed on my computer) O(N * M) <br />
 bellmanford added on 23 december 2021, late. \
-https://infoarena.ro/problema/disjoint (to be added) <br />
+https://infoarena.ro/problema/disjoint (missing) <br />
 
 Part III \
 https://infoarena.ro/problema/maxflow 0/100 (memory limit exceeded) (6/10 passed on my computer) O(N * M2) \
