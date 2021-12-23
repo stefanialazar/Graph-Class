@@ -8,10 +8,10 @@ https://infoarena.ro/problema/biconex (to be added) \
 https://infoarena.ro/problema/ctc 30/100 O(N + M) or O(N^2) \
 https://infoarena.ro/problema/sortaret 0/100 (memory limit exceeded) O(N + M) <br />
 Havel Hakimi Theorem (to be added) \
-https://leetcode.com/problems/critical-connections-in-a-network/ 9/15 (time limit exceeded) 
+https://leetcode.com/problems/critical-connections-in-a-network/ 9/15 (time limit exceeded) O(N^2)
 
 Part II \
-https://infoarena.ro/problema/dijkstra 0/100 (memory limit exceeded) \
+https://infoarena.ro/problema/dijkstra 0/100 (memory limit exceeded) O(N^2) \
 https://infoarena.ro/problema/apm 50/100 \
 https://infoarena.ro/problema/bellmanford (to be added) <br />
 https://infoarena.ro/problema/disjoint (to be added) <br />
