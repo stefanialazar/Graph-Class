@@ -20,7 +20,7 @@ https://infoarena.ro/problema/disjoint (missing) <br />
 Part III \
 https://infoarena.ro/problema/maxflow 0/100 (memory limit exceeded) (6/10 passed on my computer) O(N * M2) \
 maxflow added on 23 december 2021, late. \
-https://infoarena.ro/problema/royfloyd 0/100 (memory limit exceeded) O(N^3) \
+https://infoarena.ro/problema/royfloyd 0/100 (10/10 passed on my computer) (memory limit exceeded) O(N^3) \
 https://infoarena.ro/problema/darb 40/100 O(N^2)
 
 Part IV \
