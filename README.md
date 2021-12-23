@@ -6,7 +6,7 @@ https://infoarena.ro/problema/bfs 50/100 (time limit exceeded) \
 https://infoarena.ro/problema/dfs 50/100 (time limit exceeded) \
 https://infoarena.ro/problema/biconex (to be added) \
 https://infoarena.ro/problema/ctc 30/100 O(N + M) or O(N^2) \
-https://infoarena.ro/problema/sortaret 0/100 (memory limit exceeded) <br />
+https://infoarena.ro/problema/sortaret 0/100 (memory limit exceeded) O(N + M) <br />
 Havel Hakimi Theorem (to be added) \
 https://leetcode.com/problems/critical-connections-in-a-network/ 9/15 (time limit exceeded) 
 
