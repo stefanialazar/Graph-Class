@@ -17,7 +17,7 @@ https://infoarena.ro/problema/bellmanford (to be added) <br />
 https://infoarena.ro/problema/disjoint (to be added) <br />
 
 Part III \
-https://infoarena.ro/problema/maxflow (to be added)  \
+https://infoarena.ro/problema/maxflow 0/100 (memory limit exceeded) O(N * M2)  \
 https://infoarena.ro/problema/royfloyd 0/100 (memory limit exceeded) O(N^3) \
 https://infoarena.ro/problema/darb 40/100 O(N^2)
 
