@@ -13,7 +13,7 @@ https://leetcode.com/problems/critical-connections-in-a-network/ 9/15 (time limi
 Part II \
 https://infoarena.ro/problema/dijkstra 0/100 (memory limit exceeded) O(N^2) \
 https://infoarena.ro/problema/apm 50/100 O(N*M + Mlog2M) \
-https://infoarena.ro/problema/bellmanford 0/100 (memory limit exceeded) O(N^M) <br />
+https://infoarena.ro/problema/bellmanford 0/100 (memory limit exceeded) O(N * M) <br />
 bellmanford added on 23 december 2021, late. \
 https://infoarena.ro/problema/disjoint (to be added) <br />
 
